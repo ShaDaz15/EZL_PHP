@@ -34,7 +34,7 @@ $dbex = new BD_Exchange();
 //    return $sql;
 //}
 
-echo "<br><br><br><h1>FUCK YOU</h1><br>";
+echo "<br><br><br><h1>FUCK ME</h1><br>";
 echo "\"\"";
 
 echo $dbex->quick_string("it+table_name+");
