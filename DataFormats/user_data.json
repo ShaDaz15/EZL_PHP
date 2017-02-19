@@ -1,0 +1,27 @@
+﻿{
+  "id": 1,
+  "username": "jestes1",
+  "access_level": "user",
+  "profile": {
+    "first_name": "John",
+    "last_name": "Estes",
+    "age": 24,
+    "about_me": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed iaculis quam sed sem pulvinar placerat. Suspendisse sed euismod dolor. Sed tempor, felis at elementum hendrerit, purus nulla varius metus, vel efficitur eros libero non tellus. Fusce sed libero ex. Praesent molestie, ipsum et condimentum maximus, libero risus pellentesque augue, eu dignissim dui justo sit amet ligula. Phasellus malesuada faucibus sem. Aenean pulvinar nec turpis vitae placerat. Cras placerat condimentum facilisis. Integer maximus in turpis ac hendrerit. Maecenas suscipit ut ipsum quis aliquam. Sed lacus massa, porta vitae porta eu, semper et neque. Donec vel euismod nisl. Curabitur tempor ipsum vitae tellus pellentesque, ac semper lacus vulputate. Nullam convallis sit amet nisi sed tincidunt. Nam pellentesque erat at justo efficitur dapibus.\n\nAenean sit amet mattis nibh. Sed id diam cursus arcu facilisis posuere a vitae sem. Sed et tincidunt lectus, non viverra purus. Proin vestibulum dapibus velit, nec facilisis lacus congue vel. Etiam sagittis orci magna, congue fermentum arcu finibus ut. Aliquam imperdiet varius viverra. Sed feugiat scelerisque dui, eget molestie metus posuere id. Donec condimentum, leo in eleifend posuere, ante odio malesuada velit, at aliquet urna nulla ut nibh.\n\nSuspendisse rutrum est a urna imperdiet molestie. Fusce in ligula nisi. In et sapien orci. Suspendisse sit amet quam non augue semper pellentesque eu ac sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque mattis ultricies ipsum, vel dictum magna cursus eget. Morbi tortor nulla, feugiat eget suscipit in, molestie ac lectus. Duis id accumsan risus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam in libero nec dolor vestibulum placerat. Cras molestie nunc elit, at sagittis ligula cursus sed. In ac pretium quam, quis pharetra orci. Maecenas tincidunt laoreet ante nec elementum. Sed vehicula eros turpis. Duis vitae arcu ac mi tincidunt ultricies.",
+    "likes": [ "PHP", "Metal", "Pizza" ],
+    "dislikes": [ "CSS" , "Country", "Stupid People"],
+    "comments": [
+      {
+        "submit_user": "yuvi18",
+        "content": "<h1>You Suck Bro!</h1>",
+        "submit_date": "2017-02-19 14:14:14"
+      }
+    ],
+    "linked_accounts": [
+      {
+        "type": "facebook",
+        "uri": "http://www.facebook.com/notreallybro/#",
+        "etc": "etc"
+      }
+    ]
+  }
+}
